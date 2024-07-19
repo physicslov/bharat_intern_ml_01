@@ -1,4 +1,4 @@
-House Price Prediction using Linear Regression
+<h1>House Price Prediction using Linear Regression</h1>
 This project implements a linear regression model to predict house prices based on features such as the number of bedrooms, bathrooms, and the square foot area. The goal is to provide accurate price estimates for houses using simple yet effective regression techniques.
 
 Table of Contents
